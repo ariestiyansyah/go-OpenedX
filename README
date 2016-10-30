@@ -1,3 +1,4 @@
-=== Testing Go REST API
+Testing Go REST API
+===================
 
-`$ go run file.go
+`$ go run file.go`
